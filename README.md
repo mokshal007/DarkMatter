@@ -1,6 +1,12 @@
 # DarkMatter
 Advanced Threat Intel tool and Threat Hunting Tool
 
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Launch_DarkMatter-00f0ff?style=for-the-badge&logo=render&logoColor=black)](https://darkmatter-dashboard.onrender.com/)
+
+![Status: Active](https://img.shields.io/badge/Status-Active_Deployment-00f0ff?style=for-the-badge)
+![Role: Threat Hunting](https://img.shields.io/badge/Role-Threat_Hunting-8b5cf6?style=for-the-badge)
+![Tech: Python & WebGL](https://img.shields.io/badge/Tech-Python_%7C_WebGL-black?style=for-the-badge)
+
 # 🌌 DarkMatter // Threat Intel & Hunt Repository
 
 **DarkMatter** is a proprietary, cinematic, browser-based command center engineered for advanced threat hunting and detection engineering. 
